@@ -1,5 +1,8 @@
 {
   "name": "freshtest",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }
